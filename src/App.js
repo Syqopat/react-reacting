@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+﻿import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hoşgeldin React Dünyasına!</h1>
+        <h1>HoÅŸgeldin React DÃ¼nyasÄ±na!</h1>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
@@ -19,8 +19,8 @@ function App() {
           Learn React
         </a>
         {/* Yeni eklenen deneme buttonu */}
-        <button className="fancy-button" onClick={() => alert("React çok eğlenceli! 🎉")}>
-          Tıkla Beni!
+        <button className="fancy-button" onClick={() => alert("React Ã§ok eÄŸlenceli! ğŸ‰")}>
+          TÄ±kla Beni!
         </button>
       </header>
     </div>
